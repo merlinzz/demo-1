@@ -14,4 +14,4 @@ branches:
 deploy:
   provider: heroku
   api_key: ef983f2f-6e41-4214-95ec-09e51784eb2e
-  app: demo1mep
+  app: merlinzz
